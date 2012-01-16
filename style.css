@@ -1,0 +1,15 @@
+.wrapper{
+    text-align:left;
+    width:600px;
+    margin:20px auto;
+}
+
+#nPlayer_mini{
+    width:100%;
+}
+
+#nPlayer_mini{
+        height:200px;
+        width:100%;
+        border:1px solid black;
+}
